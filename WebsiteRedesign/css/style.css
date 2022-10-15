@@ -1,0 +1,46 @@
+header.pizza {
+  background-image: url(../images/pexels-muffin-creatives-1653877.jpg);
+  background-size: cover;
+  background-position: center;
+}
+nav.bg-light {
+  background-color: white !important;
+}
+nav {
+  border-top: 1px solid red;
+  border-bottom: 1px solid red;
+  margin-top: 15px
+    ;
+}
+.navbar-brand img {
+  width: 80px;
+  height: auto;
+}
+.btn-primary {
+  background-color: black;
+  border-color: black;
+}
+.btn-primary:hover {
+  background-color: white !important;
+  color: black !important;
+}
+
+footer {
+    background:red;
+    color: white;
+    margin-top: 75px;
+    font-family: 'Frank Ruhl Libre', serif;
+}
+.card-text {
+    font-family: 'Frank Ruhl Libre', serif;
+
+}
+.nav-item {
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+.order {
+   font-family: 'Fira Sans', sans-serif;
+}
+.card-title {
+    font-family: 'Fira Sans', sans-serif;
+}
